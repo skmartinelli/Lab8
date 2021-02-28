@@ -1,4 +1,5 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+Sam Martinelli A15936045
+
+im having big git issues right now but i didnt finish part 2 anyway so it isnt super important 
